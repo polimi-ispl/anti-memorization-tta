@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+title: Mitigating data replication in text-to-audio generative diffusion models through anti-memorization guidance
+description:
+show_downloads: True
