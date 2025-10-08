@@ -113,8 +113,6 @@ Please follow the licensing terms of each dependency and dataset.
 
 If you use this code in academic work, please cite:
 
-Thesis work:
-
 ```
 @misc{
 	messina2025mitigatingdatareplicationtexttoaudio,
