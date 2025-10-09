@@ -107,7 +107,7 @@ ensemble from Native Instruments Reaktor, and some more character with (you neve
 After that I mastered these loops within Wavelab using several plugins:
 fades, equalising, multiband compressing, limiting & dither._ 
 
-[Original freesound link](https://freesound.org/people/RHumphries/sounds/4567/)
+[Original freesound link](https://freesound.org/people/Jovica/sounds/4567/)
 
 ### Audio
 - Original
@@ -180,4 +180,90 @@ fades, equalising, multiband compressing, limiting & dither._
   <img src="media/ID_4567/Similarity_matrix/4567_all_guidance_similarity_matrix_10.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
   <img src="media/ID_4567/Similarity_matrix/4567_all_guidance_similarity_matrix_21.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
   <img src="media/ID_4567/Similarity_matrix/4567_all_guidance_similarity_matrix_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
+
+
+## Example 3 (ID 5131)
+Prompt: _"ATTACK loop 140 bpm-00.wav" till "ATTACK loop 140 bpm-31.wav"
+are all part of the "ATTACK LOOP 6" sample package and belong together
+as they are all variations on the same 1 measure 4/4 140 bpm drumloop. The loop has a techno-trance
+feel. The first four loops (00 till 03) contain some variations of the
+pure drumloop, where 00 is the most minimal and 03 the fullest. All
+other variations add other sound effects, some of them being sounds
+with a certain pitch, mostly C. These loop are suitable for your trance
+and techno productions. They were created using the Waldorf Attack VSTi within Cubase SX. Mastering (EQ, Stereo Enhancer, Multi-Band expand/compress/limit, dither, fades at start and/or end) done within Wavelab._ 
+
+[Original freesound link](https://freesound.org/people/Jovica/sounds/5131/)
+
+### Audio
+- Original
+  
+  <p align="left">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5131/Audios/sound_5131.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  </p>
+- Generated Without AMG
+  <p align="left">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5131/Audios/With_memorization/5131_generation_0.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5131/Audios/With_memorization/5131_generation_1.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5131/Audios/With_memorization/5131_generation_7.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</p>
+
+- Generated With AMG
+  <p align="left">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5131/Audios/With_AMG/5131_generation_4.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5131/Audios/With_AMG/5131_generation_45.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5131/Audios/With_AMG/5131_generation_6.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</p>
+
+### Spectrograms
+- Original
+  
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_original.pdf" alt="" width="400" style="margin: 5px;"/>
+  
+- Generated Without AMG
+<p align="center">
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_NO_AMG_0.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_NO_AMG_1.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_NO_AMG_7.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
+- Generated With AMG
+<p align="center">
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_AMG_4.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_AMG_45.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_AMG_6.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
+
+### Similarity Matrices
+- Generated Without AMG
+<p align="center">
+  <img src="media/ID_5131/Similarity_matrix/5131_with_memorization_similarity_matrix_0.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Similarity_matrix/5131_with_memorization_similarity_matrix_1.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Similarity_matrix/5131_with_memorization_similarity_matrix_7.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
+- Generated With AMG
+<p align="center">
+  <img src="media/ID_5131/Similarity_matrix/5131_all_guidance_similarity_matrix_4.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Similarity_matrix/5131_all_guidance_similarity_matrix_45.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Similarity_matrix/5131_all_guidance_similarity_matrix_6.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
