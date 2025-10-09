@@ -15,7 +15,7 @@ Prompt:
 <audio controls style="width: 300px;"><source src="media/ID_1980/Audios/sound_1980.wav" type="audio/mpeg"></audio>
 
 - Generated Without AMG
-  <p align="center">
+  <p align="left">
   <audio controls style="margin: 5px;">
     <source src="media/ID_1980/Audios/With_memorization/1980_generation_17.wav" type="audio/mpeg">
     Your browser does not support the audio element.
@@ -31,7 +31,7 @@ Prompt:
 </p>
 
 - Generated With AMG
-  <p align="center">
+  <p align="left">
   <audio controls style="margin: 5px;">
     <source src="media/ID_1980/Audios/With_AMG/1980_generation_2.wav" type="audio/mpeg">
     Your browser does not support the audio element.
@@ -63,6 +63,17 @@ Prompt:
   <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_7.pdf" alt="Image 2" width="200" style="margin: 5px;"/>
   <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_9.pdf" alt="Image 3" width="200" style="margin: 5px;"/>
 </p>
+
 ### Similarity Matrices
 - Generated Without AMG
+<p align="center">
+  <img src="media/ID_1980/Similarity_matrix/1980_with_memorization_similarity_matrix_17.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Similarity_matrix/1980_with_memorization_similarity_matrix_23.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Similarity_matrix/1980_with_memorization_similarity_matrix_28.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
 - Generated With AMG
+<p align="center">
+  <img src="media/ID_1980/Similarity_matrix/1980_all_guidance_similarity_matrix_2.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Similarity_matrix/1980_all_guidance_similarity_matrix_7.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Similarity_matrix/1980_all_guidance_similarity_matrix_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
