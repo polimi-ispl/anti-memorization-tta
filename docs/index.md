@@ -7,6 +7,7 @@ A persistent challenge in generative audio models is data replication, where the
 In the following 
 
 ## Example 1
+Prompt:
 
 ### Audio
 - Original
@@ -44,5 +45,22 @@ In the following
     Your browser does not support the audio element.
   </audio>
 </p>
-Prompt:
 
+### Spectrograms
+- Original
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_original.pdf" alt="" width="200" style="margin: 5px;"/>
+- Generated Without AMG
+<p align="center">
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_17.pdf" alt="Image 1" width="200" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_23.pdf" alt="Image 2" width="200" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_28.pdf" alt="Image 3" width="200" style="margin: 5px;"/>
+</p>
+- Generated With AMG
+<p align="center">
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_2.pdf" alt="Image 1" width="200" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_7.pdf" alt="Image 2" width="200" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_9.pdf" alt="Image 3" width="200" style="margin: 5px;"/>
+</p>
+### Similarity Matrices
+- Generated Without AMG
+- Generated With AMG
