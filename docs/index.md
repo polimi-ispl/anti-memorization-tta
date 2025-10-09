@@ -348,3 +348,80 @@ Prompt: _Recorded direct with a Peavey Dynabass in passive mode, active mode EQ 
 </p>
 
 
+## Example 5 (ID 6197)
+Prompt: _Multisamples created with subsynth. Eerie horror film sound in middle and higher registers. Normalized and converted to AIFF in cool edit 96. File name indicates frequency for example: HORROC04.aif= C4, where last 3 characters are "C04"_ 
+
+[Original freesound link](https://freesound.org/people/NoiseCollector/sounds/6197/)
+
+### Audio
+- Original
+  
+  <p align="left">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_6197/Audios/sound_6197.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  </p>
+- Generated Without AMG
+  <p align="left">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_6197/Audios/With_memorization/6197_generation_10.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_6197/Audios/With_memorization/6197_generation_2.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_6197/Audios/With_memorization/6197_generation_7.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</p>
+
+- Generated With AMG
+  <p align="left">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_6197/Audios/With_AMG/6197_generation_31.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_6197/Audios/With_AMG/6197_generation_32.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_6197/Audios/With_AMG/6197_generation_49.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</p>
+
+### Spectrograms
+- Original
+  
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_original.pdf" alt="" width="400" style="margin: 5px;"/>
+  
+- Generated Without AMG
+<p align="center">
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_NO_AMG_10.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_NO_AMG_2.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_NO_AMG_7.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
+- Generated With AMG
+<p align="center">
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_AMG_31.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_AMG_32.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_AMG_49.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
+
+### Similarity Matrices
+- Generated Without AMG
+<p align="center">
+  <img src="media/ID_6197/Similarity_matrix/6197_with_memorization_similarity_matrix_10.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Similarity_matrix/6197_with_memorization_similarity_matrix_2.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Similarity_matrix/6197_with_memorization_similarity_matrix_7.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
+- Generated With AMG
+<p align="center">
+  <img src="media/ID_6197/Similarity_matrix/6197_all_guidance_similarity_matrix_31.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Similarity_matrix/6197_all_guidance_similarity_matrix_32.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Similarity_matrix/6197_all_guidance_similarity_matrix_49.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
