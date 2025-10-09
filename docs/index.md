@@ -7,7 +7,8 @@ A persistent challenge in generative audio models is data replication, where the
 In the following 
 
 ## Example 1
-Prompt:
+Prompt: _126bpm 4/4. 4 measures with a fill. recorded with a pair of Neumann TLM 103s into protools._ 
+[Original freesound link](https://freesound.org/people/RHumphries/sounds/1980/)
 
 ### Audio
 - Original
