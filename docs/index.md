@@ -8,9 +8,25 @@ In the following
 
 ## Example 1
 
-- Original audio
+### Audio
+- Original
   
 <audio controls style="width: 300px;"><source src="media/ID_1980/Audios/sound_1980.wav" type="audio/mpeg"></audio>
 
+- Generated Without AMG
+  <p align="center">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_1980/Audios/With_memorization/1980_generation_17.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_1980/Audios/With_memorization/1980_generation_23.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_1980/Audios/With_memorization/1980_generation_28.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</p>
 Prompt:
 
