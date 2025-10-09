@@ -53,9 +53,9 @@ Prompt:
   
 - Generated Without AMG
 <p align="center">
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_17.pdf" alt="Image 1" width="200" style="margin: 5px;"/>
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_23.pdf" alt="Image 2" width="200" style="margin: 5px;"/>
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_28.pdf" alt="Image 3" width="200" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_17.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_23.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_28.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 - Generated With AMG
 <p align="center">
