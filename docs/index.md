@@ -28,5 +28,21 @@ In the following
     Your browser does not support the audio element.
   </audio>
 </p>
+
+- Generated With AMG
+  <p align="center">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_1980/Audios/With_AMG/1980_generation_2.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_1980/Audios/With_AMG/1980_generation_7.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_1980/Audios/With_AMG/1980_generation_9.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</p>
 Prompt:
 
