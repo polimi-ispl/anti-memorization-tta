@@ -267,3 +267,10 @@ and techno productions. They were created using the Waldorf Attack VSTi within C
   <img src="media/ID_5131/Similarity_matrix/5131_all_guidance_similarity_matrix_45.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
   <img src="media/ID_5131/Similarity_matrix/5131_all_guidance_similarity_matrix_6.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
+
+
+## Example 4 (ID 5375)
+Prompt: _Recorded direct with a Peavey Dynabass in passive mode, active mode EQ is nice but noisy as hell so I never use it. Ran the bass through my Zoom bass processor and played all notes on E string up to 16th fret then went the rest of the way up the strings and onto highest fret on G string._ 
+
+[Original freesound link](https://freesound.org/people/NoiseCollector/sounds/5375/)
+
