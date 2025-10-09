@@ -48,7 +48,9 @@ Prompt:
 
 ### Spectrograms
 - Original
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_original.pdf" alt="" width="200" style="margin: 5px;"/>
+  
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_original.pdf" alt="" width="400" style="margin: 5px;"/>
+  
 - Generated Without AMG
 <p align="center">
   <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_17.pdf" alt="Image 1" width="200" style="margin: 5px;"/>
