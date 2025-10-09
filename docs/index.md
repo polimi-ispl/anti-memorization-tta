@@ -59,9 +59,9 @@ Prompt:
 </p>
 - Generated With AMG
 <p align="center">
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_2.pdf" alt="Image 1" width="200" style="margin: 5px;"/>
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_7.pdf" alt="Image 2" width="200" style="margin: 5px;"/>
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_9.pdf" alt="Image 3" width="200" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_2.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_7.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 
 ### Similarity Matrices
