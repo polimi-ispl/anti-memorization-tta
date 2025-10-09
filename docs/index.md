@@ -12,8 +12,12 @@ Prompt:
 ### Audio
 - Original
   
-<audio controls style="width: 300px;"><source src="media/ID_1980/Audios/sound_1980.wav" type="audio/mpeg"></audio>
-
+  <p align="left">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_1980/Audios/sound_1980.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  </p>
 - Generated Without AMG
   <p align="left">
   <audio controls style="margin: 5px;">
