@@ -4,7 +4,11 @@
 A persistent challenge in generative audio models is data replication, where the model unintentionally generates parts of its training data during inference. In this work, we address this issue in text-to-audio diffusion models by exploring the use of anti-memorization strategies. We adopt Anti-Memorization Guidance (AMG), a technique that modifies the sampling process of pre-trained diffusion models to discourage memorization. Our study explores three types of guidance within AMG, each designed to reduce replication while preserving generation quality. We use Stable Audio Open as our backbone, leveraging its fully open-source architecture and training dataset. Our comprehensive experimental analysis suggests that AMG significantly mitigates memorization in diffusion-based text-to-audio generation without compromising audio fidelity or semantic alignment. 
 
 # Additional material
-In the following 
+In the following we will report data relative to generations with or without Anti-Memorization Guidance (AMG) for five prompts, specifically for each of these we report:
+- original audio/prompt.
+- audios generated without and with AMG (three each).
+- spectrograms of the original audio and of the ones generated with and without AMG.
+- similarity matrices computed between original audio and the audios generated with and without AMG. 
 
 ## Example 1
 Prompt: _126bpm 4/4. 4 measures with a fill. recorded with a pair of Neumann TLM 103s into protools._ 
