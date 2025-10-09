@@ -274,3 +274,77 @@ Prompt: _Recorded direct with a Peavey Dynabass in passive mode, active mode EQ 
 
 [Original freesound link](https://freesound.org/people/NoiseCollector/sounds/5375/)
 
+### Audio
+- Original
+  
+  <p align="left">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5375/Audios/sound_5375.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  </p>
+- Generated Without AMG
+  <p align="left">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5375/Audios/With_memorization/5375_generation_3.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5375/Audios/With_memorization/5375_generation_7.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5375/Audios/With_memorization/5375_generation_9.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</p>
+
+- Generated With AMG
+  <p align="left">
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5375/Audios/With_AMG/5375_generation_12.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5375/Audios/With_AMG/5375_generation_26.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <audio controls style="margin: 5px;">
+    <source src="media/ID_5375/Audios/With_AMG/5375_generation_28.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</p>
+
+### Spectrograms
+- Original
+  
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_original.pdf" alt="" width="400" style="margin: 5px;"/>
+  
+- Generated Without AMG
+<p align="center">
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_NO_AMG_3.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_NO_AMG_7.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_NO_AMG_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
+- Generated With AMG
+<p align="center">
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_AMG_12.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_AMG_26.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_AMG_28.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
+
+### Similarity Matrices
+- Generated Without AMG
+<p align="center">
+  <img src="media/ID_5375/Similarity_matrix/5375_with_memorization_similarity_matrix_3.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Similarity_matrix/5375_with_memorization_similarity_matrix_7.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Similarity_matrix/5375_with_memorization_similarity_matrix_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
+- Generated With AMG
+<p align="center">
+  <img src="media/ID_5375/Similarity_matrix/5375_all_guidance_similarity_matrix_12.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Similarity_matrix/5375_all_guidance_similarity_matrix_26.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Similarity_matrix/5375_all_guidance_similarity_matrix_28.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+</p>
+
+
