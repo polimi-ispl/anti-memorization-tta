@@ -5,10 +5,10 @@ A persistent challenge in generative audio models is data replication, where the
 
 # Additional material
 In the following we will report data relative to generations with or without Anti-Memorization Guidance (AMG) for five prompts, specifically for each of these we report:
-- original audio/prompt.
-- audios generated without and with AMG (three each).
-- spectrograms of the original audio and of the ones generated with and without AMG.
-- similarity matrices computed between original audio and the audios generated with and without AMG. 
+- Original audio/prompt.
+- Audio generated without and with AMG (three each).
+- Spectrograms of the original audio and of the ones generated with and without AMG.
+- Similarity matrices computed between original audio and the audio files generated with and without AMG. 
 
 ## Example 1
 Prompt: _126bpm 4/4. 4 measures with a fill. recorded with a pair of Neumann TLM 103s into protools._ 
