@@ -10,7 +10,7 @@ In the following
 
 - Original audio
   
-<audio controls style="width: 300px;"><source src="https://github.com/polimi-ispl/anti-memorization-tta/blob/main/docs/media/ID_1980/Audios/sound_1980.wav" type="audio/mpeg"></audio>
+<audio controls style="width: 300px;"><source src="media/ID_1980/Audios/sound_1980.wav" type="audio/mpeg"></audio>
 
 Prompt:
 
