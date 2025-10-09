@@ -60,34 +60,33 @@ Prompt: _126bpm 4/4. 4 measures with a fill. recorded with a pair of Neumann TLM
 ### Spectrograms
 - Original
   
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_original.pdf" alt="" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_original.png" alt="" width="400" style="margin: 5px;"/>
   
 - Generated Without AMG
 <p align="center">
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_17.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_23.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_28.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_17.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_23.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_NO_AMG_28.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 - Generated With AMG
 <p align="center">
-  <object data="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_2.pdf" type="application/pdf" width="400" height="300"></object>
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_2.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_7.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_2.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_7.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_9.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 
 ### Similarity Matrices
 - Generated Without AMG
 <p align="center">
-  <img src="media/ID_1980/Similarity_matrix/1980_with_memorization_similarity_matrix_17.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_1980/Similarity_matrix/1980_with_memorization_similarity_matrix_23.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_1980/Similarity_matrix/1980_with_memorization_similarity_matrix_28.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Similarity_matrix/1980_with_memorization_similarity_matrix_17.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Similarity_matrix/1980_with_memorization_similarity_matrix_23.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Similarity_matrix/1980_with_memorization_similarity_matrix_28.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 - Generated With AMG
 <p align="center">
-  <img src="media/ID_1980/Similarity_matrix/1980_all_guidance_similarity_matrix_2.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_1980/Similarity_matrix/1980_all_guidance_similarity_matrix_7.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_1980/Similarity_matrix/1980_all_guidance_similarity_matrix_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Similarity_matrix/1980_all_guidance_similarity_matrix_2.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Similarity_matrix/1980_all_guidance_similarity_matrix_7.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_1980/Similarity_matrix/1980_all_guidance_similarity_matrix_9.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 
 ## Example 2 (ID 4567)
@@ -154,33 +153,33 @@ fades, equalising, multiband compressing, limiting & dither._
 ### Spectrograms
 - Original
   
-  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_original.pdf" alt="" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_original.png" alt="" width="400" style="margin: 5px;"/>
   
 - Generated Without AMG
 <p align="center">
-  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_NO_AMG_10.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_NO_AMG_16.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_NO_AMG_5.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_NO_AMG_10.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_NO_AMG_16.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_NO_AMG_5.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 - Generated With AMG
 <p align="center">
-  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_AMG_10.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_AMG_21.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_AMG_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_AMG_10.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_AMG_21.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Spectrogram/sound_4567_spectrogram_AMG_9.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 
 ### Similarity Matrices
 - Generated Without AMG
 <p align="center">
-  <img src="media/ID_4567/Similarity_matrix/4567_with_memorization_similarity_matrix_10.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_4567/Similarity_matrix/4567_with_memorization_similarity_matrix_16.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_4567/Similarity_matrix/4567_with_memorization_similarity_matrix_5.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Similarity_matrix/4567_with_memorization_similarity_matrix_10.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Similarity_matrix/4567_with_memorization_similarity_matrix_16.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Similarity_matrix/4567_with_memorization_similarity_matrix_5.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 - Generated With AMG
 <p align="center">
-  <img src="media/ID_4567/Similarity_matrix/4567_all_guidance_similarity_matrix_10.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_4567/Similarity_matrix/4567_all_guidance_similarity_matrix_21.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_4567/Similarity_matrix/4567_all_guidance_similarity_matrix_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Similarity_matrix/4567_all_guidance_similarity_matrix_10.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Similarity_matrix/4567_all_guidance_similarity_matrix_21.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_4567/Similarity_matrix/4567_all_guidance_similarity_matrix_9.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 
 
@@ -240,33 +239,33 @@ and techno productions. They were created using the Waldorf Attack VSTi within C
 ### Spectrograms
 - Original
   
-  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_original.pdf" alt="" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_original.png" alt="" width="400" style="margin: 5px;"/>
   
 - Generated Without AMG
 <p align="center">
-  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_NO_AMG_0.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_NO_AMG_1.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_NO_AMG_7.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_NO_AMG_0.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_NO_AMG_1.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_NO_AMG_7.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 - Generated With AMG
 <p align="center">
-  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_AMG_4.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_AMG_45.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_AMG_6.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_AMG_4.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_AMG_45.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Spectrogram/sound_5131_spectrogram_AMG_6.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 
 ### Similarity Matrices
 - Generated Without AMG
 <p align="center">
-  <img src="media/ID_5131/Similarity_matrix/5131_with_memorization_similarity_matrix_0.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5131/Similarity_matrix/5131_with_memorization_similarity_matrix_1.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5131/Similarity_matrix/5131_with_memorization_similarity_matrix_7.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Similarity_matrix/5131_with_memorization_similarity_matrix_0.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Similarity_matrix/5131_with_memorization_similarity_matrix_1.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Similarity_matrix/5131_with_memorization_similarity_matrix_7.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 - Generated With AMG
 <p align="center">
-  <img src="media/ID_5131/Similarity_matrix/5131_all_guidance_similarity_matrix_4.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5131/Similarity_matrix/5131_all_guidance_similarity_matrix_45.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5131/Similarity_matrix/5131_all_guidance_similarity_matrix_6.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Similarity_matrix/5131_all_guidance_similarity_matrix_4.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Similarity_matrix/5131_all_guidance_similarity_matrix_45.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5131/Similarity_matrix/5131_all_guidance_similarity_matrix_6.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 
 
@@ -319,33 +318,33 @@ Prompt: _Recorded direct with a Peavey Dynabass in passive mode, active mode EQ 
 ### Spectrograms
 - Original
   
-  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_original.pdf" alt="" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_original.png" alt="" width="400" style="margin: 5px;"/>
   
 - Generated Without AMG
 <p align="center">
-  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_NO_AMG_3.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_NO_AMG_7.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_NO_AMG_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_NO_AMG_3.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_NO_AMG_7.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_NO_AMG_9.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 - Generated With AMG
 <p align="center">
-  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_AMG_12.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_AMG_26.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_AMG_28.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_AMG_12.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_AMG_26.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Spectrogram/sound_5375_spectrogram_AMG_28.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 
 ### Similarity Matrices
 - Generated Without AMG
 <p align="center">
-  <img src="media/ID_5375/Similarity_matrix/5375_with_memorization_similarity_matrix_3.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5375/Similarity_matrix/5375_with_memorization_similarity_matrix_7.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5375/Similarity_matrix/5375_with_memorization_similarity_matrix_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Similarity_matrix/5375_with_memorization_similarity_matrix_3.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Similarity_matrix/5375_with_memorization_similarity_matrix_7.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Similarity_matrix/5375_with_memorization_similarity_matrix_9.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 - Generated With AMG
 <p align="center">
-  <img src="media/ID_5375/Similarity_matrix/5375_all_guidance_similarity_matrix_12.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5375/Similarity_matrix/5375_all_guidance_similarity_matrix_26.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_5375/Similarity_matrix/5375_all_guidance_similarity_matrix_28.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Similarity_matrix/5375_all_guidance_similarity_matrix_12.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Similarity_matrix/5375_all_guidance_similarity_matrix_26.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_5375/Similarity_matrix/5375_all_guidance_similarity_matrix_28.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 
 
@@ -398,31 +397,31 @@ Prompt: _Multisamples created with subsynth. Eerie horror film sound in middle a
 ### Spectrograms
 - Original
   
-  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_original.pdf" alt="" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_original.png" alt="" width="400" style="margin: 5px;"/>
   
 - Generated Without AMG
 <p align="center">
-  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_NO_AMG_10.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_NO_AMG_2.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_NO_AMG_7.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_NO_AMG_10.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_NO_AMG_2.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_NO_AMG_7.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 - Generated With AMG
 <p align="center">
-  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_AMG_31.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_AMG_32.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_AMG_49.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_AMG_31.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_AMG_32.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Spectrogram/sound_6197_spectrogram_AMG_49.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 
 ### Similarity Matrices
 - Generated Without AMG
 <p align="center">
-  <img src="media/ID_6197/Similarity_matrix/6197_with_memorization_similarity_matrix_10.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_6197/Similarity_matrix/6197_with_memorization_similarity_matrix_2.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_6197/Similarity_matrix/6197_with_memorization_similarity_matrix_7.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Similarity_matrix/6197_with_memorization_similarity_matrix_10.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Similarity_matrix/6197_with_memorization_similarity_matrix_2.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Similarity_matrix/6197_with_memorization_similarity_matrix_7.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
 - Generated With AMG
 <p align="center">
-  <img src="media/ID_6197/Similarity_matrix/6197_all_guidance_similarity_matrix_31.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
-  <img src="media/ID_6197/Similarity_matrix/6197_all_guidance_similarity_matrix_32.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
-  <img src="media/ID_6197/Similarity_matrix/6197_all_guidance_similarity_matrix_49.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Similarity_matrix/6197_all_guidance_similarity_matrix_31.png" alt="Image 1" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Similarity_matrix/6197_all_guidance_similarity_matrix_32.png" alt="Image 2" width="400" style="margin: 5px;"/>
+  <img src="media/ID_6197/Similarity_matrix/6197_all_guidance_similarity_matrix_49.png" alt="Image 3" width="400" style="margin: 5px;"/>
 </p>
