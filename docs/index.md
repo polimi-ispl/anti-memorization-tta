@@ -70,6 +70,7 @@ Prompt: _126bpm 4/4. 4 measures with a fill. recorded with a pair of Neumann TLM
 </p>
 - Generated With AMG
 <p align="center">
+  <object data="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_2.pdf" type="application/pdf" width="400" height="300"></object>
   <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_2.pdf" alt="Image 1" width="400" style="margin: 5px;"/>
   <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_7.pdf" alt="Image 2" width="400" style="margin: 5px;"/>
   <img src="media/ID_1980/Spectrogram/sound_1980_spectrogram_AMG_9.pdf" alt="Image 3" width="400" style="margin: 5px;"/>
