@@ -8,7 +8,7 @@ $section-headings-color: #158B99 !default;
 @import "{{ site.theme }}";
 
 .main-content {
-  max-width: 1200px; /* Default is ~64rem (≈1024px) */
+  max-width: 1400px; /* Default is ~64rem (≈1024px) */
   margin: 0 auto;     /* Keep it centered */
   padding: 2rem;      /* Adjust inner padding if needed */
 }
