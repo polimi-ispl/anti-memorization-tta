@@ -1,4 +1,4 @@
-Accompanying website to the paper _Messina, Francisco, Francesca Ronchini, Luca Comanducci, Paolo Bestagini, and Fabio Antonacci. "Mitigating data replication in text-to-audio generative diffusion models through anti-memorization guidance." arXiv preprint arXiv:2509.14934 (2025)._
+Accompanying website to the paper _Francisco Messina, Francesca Ronchini, Luca Comanducci, Paolo Bestagini, and Fabio Antonacci. "Mitigating data replication in text-to-audio generative diffusion models through anti-memorization guidance." arXiv preprint arXiv:2509.14934 (2025)._
 
 
 ## Abstract
