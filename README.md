@@ -12,30 +12,26 @@ References to the paper and base model are at the end of this document.
 If you use this code in academic work, please cite:
 
 ```
-@misc{
-	messina2025mitigatingdatareplicationtexttoaudio,
-	title={Mitigating data replication in text-to-audio generative diffusion models through anti-memorization guidance}, 
-	author={Francisco Messina and Francesca Ronchini and Luca Comanducci and Paolo Bestagini and Fabio Antonacci},
-	year={2025},
-	eprint={2509.14934},
-	archivePrefix={arXiv},
-	primaryClass={eess.AS},
-	url={https://arxiv.org/abs/2509.14934}, 
+@inproceedings{messina2026mitigating,
+  title={Mitigating data replication in text-to-audio generative diffusion models through anti-memorization guidance},
+  author={Messina, Francisco and Ronchini, Francesca and Comanducci, Luca and Bestagini, Paolo and Antonacci, Fabio},
+  booktitle={ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={15742--15746},
+  year={2026},
+  organization={IEEE}
 }
 ```
 
 Stable Audio Open:
 
 ```
-@misc{
-	evans2024stableaudioopen,
-	title={Stable Audio Open}, 
-	author={Zach Evans and Julian D. Parker and CJ Carr and Zack Zukowski and Josiah Taylor and Jordi Pons},
-	year={2024},
-	eprint={2407.14358},
-	archivePrefix={arXiv},
-	primaryClass={cs.SD},
-	url={https://arxiv.org/abs/2407.14358}, 
+@inproceedings{evans2025stable,
+  title={Stable audio open},
+  author={Evans, Zach and Parker, Julian D and Carr, CJ and Zukowski, Zack and Taylor, Josiah and Pons, Jordi},
+  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
